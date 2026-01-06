@@ -1,6 +1,6 @@
 <?php
 
-echo "Primeiro push do meu código"
+echo "Primeiro push do meu código";
 
 
 
